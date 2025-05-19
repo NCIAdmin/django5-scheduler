@@ -3,11 +3,11 @@ Django5 Scheduler (Fork of Django Scheduler for Django5 Support)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/llazzaro/django-scheduler)
 [<img src="https://img.shields.io/coveralls/llazzaro/django-scheduler.svg">](https://coveralls.io/r/llazzaro/django-scheduler)
-[<img src="https://img.shields.io/pypi/v/django-scheduler.svg">](https://pypi.python.org/pypi/django-scheduler)
+[<img src="https://img.shields.io/pypi/v/django5-scheduler.svg">](https://pypi.org/project/django5-scheduler/)
 [![Documentation Status](https://readthedocs.org/projects/django-scheduler/badge/)](https://django-scheduler.readthedocs.io/)
 
 
-A calendar app for Django5 (drops support for older versions of Django)
+A calendar app for Django5 (drops support for older versions of Django, for older versions use original release)
 
 Information (docs from original source)
 ========
@@ -17,7 +17,7 @@ Information (docs from original source)
 * [Sample Project](https://github.com/llazzaro/django-scheduler-sample)
 
 
-Installation (not currently on PyPI)
+Installation
 ========
 
 ```bash
